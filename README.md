@@ -2,4 +2,4 @@
 for practice
 Creating a new branch quick and simple.
 add merge.
-bug fix.
+bug is fixed.
